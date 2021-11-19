@@ -1,4 +1,8 @@
-# Analyse_Num-rique
+# NUM_ANALYSIS
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 - [Requirements](#requirements)
 - [Getting started](#getting-started)
 - [TP1][TP1]
@@ -18,8 +22,17 @@
 * [Jupyter][Jup]
 * [Googlecollabs][clb]
 
-## Getting started 
-> Dans une première séance (session en ligne) nous allons faire une mise à niveau sur la programmation Python et Matlab/Octave 
-> + On va installer Anaconda et Octave en local
-> + On  va aussi ajouter le kernel d'octave/Matlab à jupyter notebook
-> + On va apprendre à utiliser google colab et octave-online 
+
+
+
+
+[ANACONDA]: https://www.anaconda.com/products/individual
+[Jup]: https://jupyter.org/
+[oct]: https://www.gnu.org/software/octave/index
+[TP1]: https://github.com/nevermind78/NUM_ANALYSIS/tree/master/TP1
+[TP2]: https://github.com/nevermind78/NUM_ANALYSIS/tree/master/TP2
+[TP3]: https://github.com/nevermind78/NUM_ANALYSIS/tree/main/TP3
+[cdi]: https://learn.datacamp.com/courses/writing-efficient-python-code
+[lcp]: https://learn.datacamp.com/courses/object-oriented-programming-in-python
+[fun]: https://learn.datacamp.com/courses/writing-functions-in-python
+[clb]:https://colab.research.google.com/notebooks/intro.ipynb
